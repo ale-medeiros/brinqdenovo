@@ -3,7 +3,7 @@
     include 'include/header.php';
     include 'include/side_bar.php';
     ?>
-    ola teste
+    ola teste 2
     <div class="container">
         <div class="row justify-content-evenly">
             <div class="col-6 my-2 bg-pink-2 rounded-3 px-3 py-2">
